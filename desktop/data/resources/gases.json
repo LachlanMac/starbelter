@@ -1,0 +1,111 @@
+[
+    {
+        "id": 1,
+        "name": "Hydrogen",
+        "description": "Hydrogen",
+        "weight": 1.0,
+        "flammable": true,
+        "boil_at": -252.87,
+        "freeze_at": -259.16
+    },
+    {
+        "id": 2,
+        "name": "Helium",
+        "description": "Helium",
+        "weight": 4.002602,
+        "flammable": false,
+        "boil_at": -268.93,
+        "freeze_at": -272.20
+    },
+    {
+        "id": 3,
+        "name": "Methane",
+        "description": "Methane",
+        "weight": 16.04,
+        "flammable": true,
+        "boil_at": -161.50,
+        "freeze_at": -182.5
+    },
+    {
+        "id": 4,
+        "name": "Ammonia",
+        "description": "Ammonia",
+        "weight": 17.031,
+        "flammable": true,
+        "boil_at": -33.34,
+        "freeze_at": -77.73
+    },
+    {
+        "id": 5,
+        "name": "Nitrogen",
+        "description": "Nitrogen",
+        "weight": 28.014,
+        "flammable": false,
+        "boil_at": -195.79,
+        "freeze_at": -209.86
+    },
+    {
+        "id": 6,
+        "name": "Oxygen",
+        "description": "Oxygen",
+        "weight": 32.0,
+        "flammable": false,
+        "boil_at": -182.96,
+        "freeze_at": -218.79
+    }
+    
+    {
+        "id": 7,
+        "name": "Argon",
+        "description": "Argon",
+        "weight": 39.948,
+        "flammable": false,
+        "boil_at": -185.85,
+        "freeze_at": -189.34
+    },
+    {
+        "id": 8,
+        "name": "Xenon",
+        "description": "Xenon",
+        "weight": 131.293,
+        "flammable": false,
+        "boil_at": -108.12,
+        "freeze_at": -111.75
+    },
+    {
+        "id": 9,
+        "name": "Neon",
+        "description": "Neon",
+        "weight": 20.180,
+        "flammable": false,
+        "boil_at": -246.08,
+        "freeze_at": -248.59
+    },
+    {
+        "id": 10,
+        "name": "Carbon dioxide",
+        "description": "Carbon dioxide",
+        "weight": 44.01,
+        "flammable": false,
+        "boil_at": -78.5,
+        "freeze_at": -56.6
+    },
+    {
+        "id": 11,
+        "name": "Water vapor",
+        "description": "Water vapor",
+        "weight": 18.01528,
+        "flammable": false,
+        "boil_at": 100.0,
+        "freeze_at": 0.0
+    },
+    {
+        "id": 12,
+        "name": "Sulfur dioxide",
+        "description": "Sulfur dioxide",
+        "weight": 64.066,
+        "flammable": false,
+        "boil_at": -10.0,
+        "freeze_at": -75.7
+    }
+]
